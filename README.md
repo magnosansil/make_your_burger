@@ -1,19 +1,5 @@
-# make_your_burger
+Projeto realizado para práticas e aprendizado do framework Vue.js.
 
-## Project setup
-```
-npm install
-```
+Aprendizado advindo do curso do professor Matheus Battisti, do canal Hora de Codar, do YouTube, e também professor dos cursos da Udemy.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Resolvi me desafiar a refazer o projeto, adicionando novas funcionalidades e otimizando a estilização e responsividade.
