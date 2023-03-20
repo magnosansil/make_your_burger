@@ -55,10 +55,10 @@
     margin-bottom: auto;
   }
 
-  #link_pedidos {
+  /* #link_pedidos {
     pointer-events: none;
     cursor: default;
-  }
+  } */
 
   nav a {
     color: #fcba03;
